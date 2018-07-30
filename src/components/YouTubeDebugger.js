@@ -16,6 +16,10 @@ export default class YouTubeDebugger extends React.Component {
     }
   }
   render(
-    return
+    return (
+      <button></button>
+      <button></button>
+      
+    )
   )
 }
