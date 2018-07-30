@@ -23,7 +23,9 @@ export default class YouTubeDebugger extends React.Component {
 
   updateResolution = () => {
     // change to 720p
-    this.setState()
+    this.setState({
+      
+    })
   }
   render(
     return (
