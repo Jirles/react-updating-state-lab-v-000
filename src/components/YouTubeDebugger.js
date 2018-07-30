@@ -12,14 +12,13 @@ export default class YouTubeDebugger extends React.Component {
       settings: {
         bitrate: 8,
         video: { resolution: '1080p' }
-      } 
+      }
     }
   }
   render(
     return (
-      <button></button>
-      <button></button>
-      
+      <button className=''></button>
+      <button className=''></button>
     )
   )
 }
