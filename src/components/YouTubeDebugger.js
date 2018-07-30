@@ -16,6 +16,10 @@ export default class YouTubeDebugger extends React.Component {
     }
   }
   updateBitrate = () => {
+
+  }
+
+  updateResolution = () => {
     
   }
   render(
